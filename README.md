@@ -12,6 +12,8 @@ You can find more about the Jupyter installation [here](http://jupyter.org/insta
 
 Once Jupyter is installed, you need to install [zerobnl](https://github.com/IntegrCiTy/zerobnl) and its requirements following the steps described in the README based on your operating system in the same Python environment where you installed Jupyter.
 
+All the example have to be run in the created Python environment.
+
 ## Authors
 
 * **Pablo Puerto** - *Initial work*
