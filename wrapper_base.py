@@ -38,7 +38,7 @@ class MyNode(Node):
         super(MyNode, self).step(value, unit)  # Keep this line, it triggers the parent class method.
         value *= self.UNIT[unit]  # Keep this line, it converts the step value to seconds
 
-        self.y = np.random.choice([-1, 1])
+        self.y = np.random.choice([-1, 0, 1])
         self.b = self.a + self.y * self.c
         self.save_attribute("y")
 
