@@ -19,17 +19,17 @@
 - Meta-models
 `add_meta()`
 
-<img src="./figures/abs_metamodel.png" alt="Meta-model" style="width: 150px;"/>
+<img src="./figures/abs_metamodel.png" alt="Meta-model" style="width: 50px;"/>
 
 - Models
 `add_model()`
 
-<img src="./figures/abs_model.png" alt="Model" style="width: 150px;"/>
+<img src="./figures/abs_model.png" alt="Model" style="width: 50px;"/>
 
 - Nodes
 `add_node()`
 
-<img src="./figures/abs_node.png" alt="Node" style="width: 150px;"/>
+<img src="./figures/abs_node.png" alt="Node" style="width: 50px;"/>
 
 - Links
 `add_link()`
