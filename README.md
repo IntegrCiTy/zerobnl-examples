@@ -14,6 +14,8 @@ Once Jupyter is installed, you need to install [zerobnl](https://github.com/Inte
 
 All the example have to be run in the created Python environment.
 
+You will find more information on the modelling process and the features of the tool [here]()
+
 ## Authors
 
 * **Pablo Puerto** - *Initial work*
